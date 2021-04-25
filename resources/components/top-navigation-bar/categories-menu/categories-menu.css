@@ -1,0 +1,13 @@
+.categories-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  align-content: center;
+}
+
+.categories-menu .single-category {
+  display: block;
+  position: relative;
+  line-height: 20px;
+}
